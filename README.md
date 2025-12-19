@@ -1,6 +1,9 @@
-<<<<<<< HEAD
 # LLM-FineTuning
-=======
-# LLM-FineTuning
-LLM FineTuning with PEFT and Llama.cpp
->>>>>>> 2871ff9cf0719dd590e7964f8d2ff153cf36118c
+
+[中文版](README_zh.md)
+
+*The project is an exploration of model fine-tuning using PEFT, Llama.cpp and Ollama*
+
+<div align=center>
+<img src="result.png" width = "100%" height = "100%" />
+</div> 
